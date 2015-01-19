@@ -1,2 +1,4 @@
 *~
 *.pxp
+.spyderworkspace
+.spyderproject
